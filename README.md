@@ -1,3 +1,4 @@
+<h1>Hi there</h1>  
 <p align="center"><img src="https://raw.githubusercontent.com/FormidableLabs/spectacle/main/docs/src/assets/logo_spectacle.png" width=250></p>
 <h2 align="center">Spectacle</h2>
 <p align="center">
